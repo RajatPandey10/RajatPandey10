@@ -14,7 +14,6 @@
 <a href="https://twitter.com/@rajatpaney26965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rajatpaney26965" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rajatpandey9310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajatpandey9310" height="30" width="40" /></a>
 <a href="https://instagram.com/rajatpandey9971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajatpandey9971" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@rajatpandey4470?si=mbya85yefjl63xta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rajatpandey4470?si=mbya85yefjl63xta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajat_pandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajat_pandey_" height="30" width="40" /></a>
 </p>
 

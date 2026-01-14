@@ -5,7 +5,7 @@
 
 </a> </p>
 
-- 🌱 I’m currently learning **Springboot** **React framework** 
+- 🌱 I’m currently learning **Springboot** and **React framework** 
 
 - 📫 How to reach me **pandeyrajat9971@gmail.com**
   

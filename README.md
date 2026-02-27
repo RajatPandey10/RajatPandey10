@@ -1,28 +1,122 @@
 <h1 align="center">Hi 👋, I'm Rajat Pandey</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatpandey10&label=Profile%20views&color=0e75b6&style=flat" alt="rajatpandey10" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer;Building+Scalable+Applications;Continuous+Learner+🚀" />
+</h3>
 
-</a> </p>
+---
 
-- 🌱 I’m currently learning **Springboot** and **React framework** 
+## 🧠 About Me
 
-- 📫 How to reach me **pandeyrajat9971@gmail.com**
-  
-  ## 🚀 My Portfolio  
-🔗 **Live Portfolio:**  
-👉 https://portfolio-rp-iq2l.onrender.com/
+I am a **B.Tech Computer Science student** passionate about building impactful applications and solving real-world problems.
 
+> **Learn continuously. Build meaningful projects. Solve real-world problems using modern technologies.**
 
+I enjoy working across the full stack — from designing responsive user interfaces to developing scalable backend systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@rajatpaney26965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rajatpaney26965" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajatpandey9310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajatpandey9310" height="30" width="40" /></a>
-<a href="https://instagram.com/rajatpandey9971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajatpandey9971" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/RajatPandey9310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajat_pandey_" height="30" width="40" /></a>
+---
+
+# 📊 GitHub Activity
+
+> 📈 Consistently building and contributing to projects.
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajatpandey10&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatpandey10&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
+# 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajatpandey10&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Live Portfolio**  
+👉 https://portfolio-rp-iq2l.onrender.com/
+
+---
+
+# 🚀 Featured Projects
+
+### 📨 Smart Email Assistant  
+🔗 Live Project  
+https://dancing-hummingbird-76fbba.netlify.app/
+
+---
+
+### 📄 Resume Builder Application  
+🔗 Frontend  
+https://resumebuilderapi.netlify.app/
+
+---
+
+# 💻 Tech Stack
+
+## 🌐 Frontend
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
+
+---
+
+## ⚙ Backend
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
+
+---
+
+## 🛢 Database
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🛠 Tools
+<p align="center">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 **pandeyrajat9971@gmail.com**
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/rajatpandey9310/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/@rajatpaney26965">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.leetcode.com/RajatPandey9310">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://instagram.com/rajatpandey9971">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>

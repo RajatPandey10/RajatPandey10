@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rajatpandey10&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 <h1 align="center">Hi 👋, I'm Rajat Pandey</h1>
 
 <h3 align="center">

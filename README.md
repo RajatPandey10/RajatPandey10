@@ -53,11 +53,21 @@ https://dancing-hummingbird-76fbba.netlify.app/
 
 ---
 
+### 📄 Musify (clone project)
+🔗 Frontend (User UI)
+https://stellar-cheesecake-9fc4d1.netlify.app/
+
+🔗 Frontend (Admin Pannel)
+https://superb-wisp-963d2c.netlify.app/
+
+---
+
 ### 📄 Resume Builder Application  
 🔗 Frontend  
 https://resumebuilderapi.netlify.app/
 
 ---
+
 
 # 💻 Tech Stack
 
